@@ -1,0 +1,6 @@
+{
+  "name": "Ohm Lab - Laboratorio y Simulador de la Ley de Ohm",
+  "description": "Simulador interactivo de la Ley de Ohm con circuitos en serie, paralelo y mixto, flujo de electrones en tiempo real y detección de sobrecarga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
